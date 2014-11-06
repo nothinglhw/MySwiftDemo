@@ -10,9 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //@IBOutlet weak var button: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+      // button.frame=CGRectMake(32, 32, 320, 44)
+        
     }
 
     override func didReceiveMemoryWarning() {
